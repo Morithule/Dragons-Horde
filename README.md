@@ -19,15 +19,15 @@ Once all players are registered on the player management screen, press start gam
 
 During a player's first turn, they have two options.
 
-1. Unwrap a gift from the hoard: The player selects a gift, unwraps it, and reveals it to the group. After revealing, their turn ends. 
+- Unwrap a gift from the hoard: The player selects a gift, unwraps it, and reveals it to the group. After revealing, their turn ends. 
 
-1. Use an ability to claim a gift from the horde: Each player begins with an ability to take a gift from another player (steal). Using this ability has a chance to fail and consequences for that failure. The application will prompt you to select the player being stolen from and will then roll a d20 to determine success or failure. Each player can only use their ability once unless otherwise determined by the rules of the application.
+- Use an ability to claim a gift from the horde: Each player begins with an ability to take a gift from another player (steal). Using this ability has a chance to fail and consequences for that failure. The application will prompt you to select the player being stolen from and will then roll a d20 to determine success or failure. Each player can only use their ability once unless otherwise determined by the rules of the application.
 
-2. On a successful steal, the victim hands over the gift to the player and that player's turn ends. The victim now gets another chance to either select an unwrapped gift or use their ability if they haven't already used it.
+  - On a successful steal, the victim hands over the gift to the player and that player's turn ends. The victim now gets another chance to either select an unwrapped gift or use their ability if they haven't already used it.
 
-2. On a failed roll, the player attempting to steal has been caught by the DM and must throw themselves at the mercy of the DM. The DM has the opportunity to either allow the player to choose a gift from the hoard or the DM may choose one for them. This could include the revealed "zonk" gift.
+  - On a failed roll, the player attempting to steal has been caught by the DM and must throw themselves at the mercy of the DM. The DM has the opportunity to either allow the player to choose a gift from the hoard or the DM may choose one for them. This could include the revealed "zonk" gift.
 
-2. Since there is a chance of failure, there is no limit to how many times a gift can be stolen.
+  - Since there is a chance of failure, there is no limit to how many times a gift can be stolen.
 
 ## Ending the Game
 
