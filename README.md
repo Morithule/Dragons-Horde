@@ -1,7 +1,7 @@
-#Dragon's Horde Gift Exchange Manager
-##DM Manual
+# Dragon's Horde Gift Exchange Manager
+## DM Manual
 
-##Setup
+## Setup
 
 Players (the horde) bring wrapped gifts (the hoard) and place them in a central area that is visible to all players. Each player can now register in the application by entering their name and creating their character. The game will require at least one player to be the Dragon Master (DM). The DM will be the referee. They will apply the rules, settle disputes and run the application. The DM will also supply one unwrapped gift to the game. This should be a "zonk" gift (one that may not be very desirable). Players may be forced to choose this gift by some elements of the game. 
 
