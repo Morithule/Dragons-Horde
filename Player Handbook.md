@@ -1,4 +1,4 @@
-# Dragon's Horde - Players Guide
+# Dragon's Horde - Player Handbook
 
 ## Character Creation
 
