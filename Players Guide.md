@@ -4,13 +4,13 @@
 
 Before the game begins, you will need to create your character. On the player management screen, you can enter your name and roll dice to determine your character's attributes. These attributes will define your class:
 
-- Warrior (high strength)
+- Warrior (strength)
 
-- Thief (high dexterity)
+- Thief (dexterity)
 
-- Magician (high intelligence)
+- Magician (intelligence)
 
-- Bard (high charisma)
+- Bard (charisma)
 
 You can choose your character's look from a set of available images or stick with a randomly assigned character. If playing in a large group, characters may be automatically generated from a pre-loaded list.
 
