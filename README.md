@@ -1,5 +1,4 @@
-# Dragon's Horde Gift Exchange Manager
-## DM Manual
+# Dragon's Horde Gift Exchange Manager - Dragon Master's Manual
 
 ## Setup
 
