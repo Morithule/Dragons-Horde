@@ -1,4 +1,4 @@
-**Proclamation from Dragon Lord Seraphina, Benevolent Ruler of the Verdant Skies, Keeper of the Glittering Hoard, Warden of the Forgotten Flames, Protector of the Realm, and Keeper of Balance**
+## Proclamation from Dragon Lord Seraphina, Benevolent Ruler of the Verdant Skies, Keeper of the Glittering Hoard, Warden of the Forgotten Flames, Protector of the Realm, and Keeper of Balance
 
 To my beloved villagers, my devoted horde,
 
