@@ -49,3 +49,9 @@ At the end of the game, reveal the bonus prize and present it to the person who 
 
 The Cards of Redemption are designed to provide the steal victim with an advantage after losing their gift. After being stolen from, the victim will have the chance to take another gift from the hoard or draw a card. Each card will provide the player with a unique ability. For instance, it may give them the ability to steal a gift with a bonus to the roll, or it may provide the option of peeking under the wrapping paper of two gifts and selecting the one they prefer. The application will provide a description of the ability, and the use of the ability is completely optional.
 
+## Auto Save
+After each turn, a snapshot of the game is saved just in case the application crashes or some other calamity occurs. You can load a saved game in the settings menu.
+
+## Restart
+If you'd like to restart the game without losing your player list, use the restart button in the settings menu. This will randomize the turn order again.
+
