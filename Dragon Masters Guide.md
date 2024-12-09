@@ -2,7 +2,7 @@
 
 ## Setup
 
-Players (the horde) bring wrapped gifts (the hoard) and place them in a central area that is visible to all players. Each player can now register in the application by entering their name and creating their character. The game will require at least one player to be the Dragon Master (DM). The DM will be the referee. They will apply the rules, settle disputes and run the application. The DM will also supply one unwrapped gift to the game. This should be a "zonk" gift (one that may not be very desirable). Players may be forced to choose this gift by some elements of the game. 
+Players (the horde) bring wrapped gifts (the hoard) and place them in a central area that is visible to all players. Each player can now register in the application by entering their name and creating their character. The game will require at least one player to be the Dragon Master (DM). The DM will be the referee. They will apply the rules, settle disputes and run the application. Optionally, the DM can also supply one unwrapped gift to the game. This would be a "zonk" gift (one that may not be very desirable). Players may be forced to choose this gift if they fail a steal roll. 
 
 ## Character Creation
 
@@ -24,7 +24,7 @@ During a player's first turn, they have two options.
 
   - On a successful steal, the victim hands over the gift to the player and that player's turn ends. The victim now gets another chance to either select an unwrapped gift or use their ability if they haven't already used it.
 
-  - On a failed roll, the player attempting to steal has been caught by the DM and must throw themselves at the mercy of the DM. The DM has the opportunity to either allow the player to choose a gift from the hoard or the DM may choose one for them. This could include the revealed "zonk" gift.
+  - On a failed roll, the player attempting to steal has been caught by the DM and must throw themselves at the mercy of the DM. The DM has the opportunity to either allow the player to choose a gift from the hoard or the DM may choose one for them. This could include the revealed "zonk" gift if one was provided.
 
   - Since there is a chance of failure, there is no limit to how many times a gift can be stolen.
 
